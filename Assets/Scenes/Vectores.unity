@@ -6496,7 +6496,7 @@ MonoBehaviour:
   resta: {fileID: 1401055200}
   punto: {fileID: 1696948363}
   cruz: {fileID: 1660600722}
-  toggleColor: {r: 0, g: 1, b: 0, a: 1}
+  toggleColor: {r: 1, g: 0, b: 0.83145046, a: 1}
   inactiveColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1 &1146742099
 GameObject:
