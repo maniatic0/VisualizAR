@@ -242,7 +242,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 2800000, guid: 72e5058b30447e44885f30d9dacaefc8, type: 3}
-  AndroidKeystoreName: C:/Users/Christian/Desktop/PlayStore/VisualizAR.keystore
+  AndroidKeystoreName: C:/Users/Christian/Google Drive/PlayStore/VisualizAR.keystore
   AndroidKeyaliasName: visualizar
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
